@@ -28,11 +28,15 @@ Pending
 
 Pending
 
-### Bezel
+### Disk Bay Bezel
 
 Pending
 
-### Bezel Cover
+### Keyboard Bezel
+
+Pending
+
+### Keyboard Bezel Cover
 
 Pending
 
