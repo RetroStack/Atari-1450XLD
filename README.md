@@ -37,8 +37,6 @@ Pending
 
 ### Keyboard Bezel Cover
 
-Keyboard_Bezel_Cover_Model
-
 | [Download STL](/Model/Keyboard_Bezel_Cover.stl) | [![Top Panel](/Images/Keyboard_Bezel_Cover_Model.png)](/Model/Keyboard_Bezel_Cover.stl) |
 |----------------------------------|-------------------------------------|
 
