@@ -16,12 +16,13 @@ This project provides a fully recreated case for the Atari 1450XLD, designed for
 
 ### Top Panel
 
-| [Download STL](/Model/Top.stl) | [![Top Panel](/Images/Top_Model.png)](/Model/Top.stl) |
+| [Download STL](/Model/Top.stl) | [![Top Case](/Images/Top_Model.png)](/Model/Top.stl) |
 |----------------------------------|-------------------------------------|
 
 ### Bottom Panel
 
-Pending
+| [Download STL](/Model/Bottom.stl) | [![Bottom Case](/Images/Bottom_Model.png)](/Model/Bottom.stl) |
+|----------------------------------|-------------------------------------|
 
 ### Port Cover
 
