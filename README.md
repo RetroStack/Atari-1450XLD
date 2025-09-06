@@ -10,9 +10,9 @@ This project provides a fully recreated case for the Atari 1450XLD, designed for
 - **Removed the unused bottom hatch**, making the case more robust.  
 - **Added a removable port cover**, inspired by the Atari 1200, for easier access and modularity.  
 
-## Case Components
-
 ### Main Enclosure
+
+![Overview](/Images/Overview.png)
 
 ### Top Panel
 
@@ -30,7 +30,8 @@ Pending
 
 ### Disk Bay Bezel
 
-Pending
+| [Download STL](/Model/DiskBay_Bezel.stl) | [![DiskBay Bezel](/Images/DiskBay_Bezel_Model.png)](/Model/DiskBay_Bezel.stl) |
+|----------------------------------|-------------------------------------|
 
 ### Keyboard Bezel
 
