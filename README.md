@@ -34,14 +34,13 @@ Pending
 
 ### Keyboard Bezel
 
-Pending
+| [Download STL](/Model/Keyboard_Bezel.stl) | [![Keyboard Bezel](/Images/Keyboard_Bezel_Model.png)](/Model/Keyboard_Bezel.stl) |
+|----------------------------------|-------------------------------------|
 
 ### Keyboard Bezel Cover
 
-| [Download STL](/Model/Keyboard_Bezel_Cover.stl) | [![Top Panel](/Images/Keyboard_Bezel_Cover_Model.png)](/Model/Keyboard_Bezel_Cover.stl) |
+| [Download STL](/Model/Keyboard_Bezel_Cover.stl) | [![Keyboard Bezel Cover](/Images/Keyboard_Bezel_Cover_Model.png)](/Model/Keyboard_Bezel_Cover.stl) |
 |----------------------------------|-------------------------------------|
-
-Pending
 
 
 ## Contributions
