@@ -12,36 +12,57 @@ This project provides a fully recreated case for the Atari 1450XLD, designed for
 
 ### Main Enclosure
 
-![Overview](/Images/Overview.png)
+| ![Overview](/Images/Overview_Front.png) | ![Overview](/Images/Overview_Back.png) |
+|----------------------------------|-------------------------------------|
+
 
 ### Top Panel
 
-| [Download STL](/Model/Top.stl) | [![Top Case](/Images/Top_Model.png)](/Model/Top.stl) |
-|----------------------------------|-------------------------------------|
+| [Download STL](/Model/Top.stl) | [![Top Case](/Images/Top_Front.png)](/Model/Top.stl) | [![Top Case](/Images/Top_Back.png)](/Model/Top.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Bottom Panel
 
-| [Download STL](/Model/Bottom.stl) | [![Bottom Case](/Images/Bottom_Model.png)](/Model/Bottom.stl) |
-|----------------------------------|-------------------------------------|
+| [Download STL](/Model/Bottom.stl) | [![Bottom Case](/Images/Bottom_Front.png)](/Model/Bottom.stl) | [![Bottom Case](/Images/Bottom_Back.png)](/Model/Bottom.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Port Cover
 
-Pending
+| [Download STL](/Model/Port.stl) | [![Top Case](/Images/Port_Front.png)](/Model/Port.stl) | [![Top Case](/Images/Port_Back.png)](/Model/Port.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Disk Bay Bezel
 
-| [Download STL](/Model/DiskBay_Bezel.stl) | [![DiskBay Bezel](/Images/DiskBay_Bezel_Model.png)](/Model/DiskBay_Bezel.stl) |
-|----------------------------------|-------------------------------------|
+| [Download STL](/Model/DiskBay_Bezel.stl) | [![DiskBay Bezel](/Images/DiskBay_Bezel_Front.png)](/Model/DiskBay_Bezel.stl) | [![DiskBay Bezel](/Images/DiskBay_Bezel_Back.png)](/Model/DiskBay_Bezel.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Keyboard Bezel
 
-| [Download STL](/Model/Keyboard_Bezel.stl) | [![Keyboard Bezel](/Images/Keyboard_Bezel_Model.png)](/Model/Keyboard_Bezel.stl) |
-|----------------------------------|-------------------------------------|
+| [Download STL](/Model/Keyboard_Bezel.stl) | [![Keyboard Bezel](/Images/Keyboard_Bezel_Front.png)](/Model/Keyboard_Bezel.stl) | [![Keyboard Bezel](/Images/Keyboard_Bezel_Back.png)](/Model/Keyboard_Bezel.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Keyboard Bezel Cover
 
-| [Download STL](/Model/Keyboard_Bezel_Cover.stl) | [![Keyboard Bezel Cover](/Images/Keyboard_Bezel_Cover_Model.png)](/Model/Keyboard_Bezel_Cover.stl) |
-|----------------------------------|-------------------------------------|
+| [Download STL](/Model/Keyboard_Bezel_Cover.stl) | [![Keyboard Bezel Cover](/Images/Keyboard_Bezel_Cover_Front.png)](/Model/Keyboard_Bezel_Cover.stl) | [![Keyboard Bezel Cover](/Images/Keyboard_Bezel_Cover_Back.png)](/Model/Keyboard_Bezel_Cover.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
+
+
+### Main Enclosure (Original)
+
+The original case was not ideal, as it required bending the PCB to fit it into the case. However, I still want to make the original case available as-is, although printing the revised case above is the better option.
+
+Since only the port area is different, there are just two differing parts: the bottom case, which has a built-in port cover, and an additional trapdoor that doesn’t really serve a useful function.
+
+
+### Trapdoor
+
+| [Download STL](/Model/Trap_Door.stl) | [![Top Case](/Images/TrapDoor_Front.png)](/Model/Trap_Door.stl) | [![Top Case](/Images/TrapDoor_Back.png)](/Model/Trap_Door.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
+
+### Bottom Panel
+
+| [Download STL](/Model/Bottom_Original.stl) | [![Bottom Case](/Images/Bottom_Original_Front.png)](/Model/Bottom_Original.stl) | [![Bottom Case](/Images/Bottom_Original_Back.png)](/Model/Bottom_Original.stl) |
+|----------------------------------|-------------------------------------|-------------------------------------|
 
 
 ## Contributions
