@@ -51,12 +51,12 @@ This project provides a fully recreated case for the Atari 1450XLD, designed for
 
 The original case was not ideal, as it required bending the PCB to fit it into the case. However, I still want to make the original case available as-is, although printing the revised case above is the better option.
 
-Since only the port area is different, there are just two differing parts: the bottom case, which has a built-in port cover, and an additional trapdoor that doesn’t really serve a useful function.
+Since only the port area is different, there are just two differing parts: the bottom case, which has a built-in port cover, and an additional trap door that doesn’t really serve a useful function.
 
 
-### Trapdoor
+### Trap Door
 
-| [Download STL](/Model/Trap_Door.stl) | [![Top Case](/Images/TrapDoor_Front.png)](/Model/Trap_Door.stl) | [![Top Case](/Images/TrapDoor_Back.png)](/Model/Trap_Door.stl) |
+| [Download STL](/Model/Trap_Door.stl) | [![Top Case](/Images/Trap_Door_Front.png)](/Model/Trap_Door.stl) | [![Top Case](/Images/Trap_Door_Back.png)](/Model/Trap_Door.stl) |
 |----------------------------------|-------------------------------------|-------------------------------------|
 
 ### Bottom Panel
